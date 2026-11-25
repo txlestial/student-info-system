@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_container">#EEF2FF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#3730A3</color>
+
+    <color name="secondary">#EC4899</color>
+    <color name="secondary_container">#FDF2F8</color>
+
+    <color name="background">#FAFAFE</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="input_background">#F1F3F9</color>
+    <color name="input_stroke">#E2E8F0</color>
+
+    <!-- Coral Login Theme -->
+    <color name="coral_primary">#FF7058</color>
+    <color name="coral_dark">#E65A42</color>
+    <color name="coral_background">#FF8573</color>
+
+    <color name="text_primary">#1E1B4B</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

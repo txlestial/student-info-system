@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Student Info System</string>
+
+    <!-- Portal & Header -->
+    <string name="nusys_manila">NUSYS MANILA</string>
+    <string name="hi_tyra">Hi, Tyra</string>
+    <string name="desc_back">Back</string>
+    <string name="desc_notifications">Notifications</string>
+    <string name="desc_profile">Profile</string>
+
+    <!-- Professor Login -->
+    <string name="faculty_portal">Faculty Portal</string>
+    <string name="professor_login_subtitle">Institution Professor Authentication</string>
+    <string name="username">Faculty ID / Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Professor Dashboard</string>
+    <string name="welcome_professor">Welcome, Professor</string>
+    <string name="dashboard_subtitle">Manage student records and academic information</string>
+    <string name="menu_add_student">Add Student Information</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- Logout Dialog -->
+    <string name="logout_title">Confirm Logout</string>
+    <string name="logout_message">Are you sure you want to log out of the faculty portal?</string>
+    <string name="logout_confirm">Logout</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Student Info Form -->
+    <string name="student_info_title">Student Info System</string>
+    <string name="student_no">Student No.</string>
+    <string name="section_student_name">Student Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="section_academic_info">Student Academic Info</string>
+    <string name="program">Program</string>
+    <string name="year_level">Year Level</string>
+    <string name="select_year_level">Select Year Level</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="student_info_saved">Student information saved successfully!</string>
+    <string name="form_cleared">Form cleared</string>
+    <string name="error_required">This field is required</string>
+
+    <!-- Programs -->
+    <string name="program_digital_forensics">BS Computer Science with Specialization in Digital Forensics</string>
+    <string name="program_machine_learning">BS Computer Science with Specialization in Machine Learning</string>
+
+    <!-- Year Levels -->
+    <string name="year_1">1st Year</string>
+    <string name="year_2">2nd Year</string>
+    <string name="year_3">3rd Year</string>
+    <string name="year_4">4th Year</string>
+</resources>
